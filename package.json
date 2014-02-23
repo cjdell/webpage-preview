@@ -13,6 +13,10 @@
   "author": {
     "name": "Chris Dell"
   },
+  "repository" : {
+    "type": "git",
+    "url": "http://github.com/cjdell/webpage-preview.git"
+  },
   "license": "MIT",
   "dependencies": {
     "underscore": "latest",
