@@ -26,6 +26,6 @@
     "change-case": "latest",
     "moment": "latest",
     "freeport": "latest",
-    "mkdirp": "mkdirp"
+    "mkdirp": "latest"
   }
 }
