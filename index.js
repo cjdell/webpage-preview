@@ -4,7 +4,6 @@ var path        = require('path'),
     phantom     = require('phantom'),
     easyimg     = require('easyimage'),
     async       = require('async'),
-    changeCase  = require('change-case'),
     freeport    = require('freeport'),
     mkdirp      = require('mkdirp');
 
