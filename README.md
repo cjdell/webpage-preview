@@ -16,6 +16,20 @@ webpagePreview.generatePreview('http://www.google.com/', 'google', APP_ROOT + '/
     }
 });
 ```
+
+### Sample return
+
+`sizePaths` =
+
+```javascript
+{
+  "full": "\/home\/cjdell\/Projects\/web-monitor\/public\/previews\/google\/full.png",
+  "small": "\/home\/cjdell\/Projects\/web-monitor\/public\/previews\/google\/small.png",
+  "medium": "\/home\/cjdell\/Projects\/web-monitor\/public\/previews\/google\/medium.png",
+  "large": "\/home\/cjdell\/Projects\/web-monitor\/public\/previews\/google\/large.png"
+}
+```
+
 Installation:
 -------------
 
